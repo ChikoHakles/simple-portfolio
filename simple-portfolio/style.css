@@ -1,0 +1,97 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.about {
+    margin-top: 6rem;
+}
+.about-text {
+    text-align: center;
+    font-size: 1.6rem;
+}
+.alias {
+    font-size: 1.5rem;
+}
+.alias, .name, .graph-info, .quotes, .div-title, .about-text {
+    text-align: center;
+}
+.bootcamp-history {
+    margin-top: 3rem;
+}
+.bootcamp-history, .education {
+    text-align: right;
+}
+.bootcamp-history ul, .education ul {
+    margin-top: 3rem;
+    list-style: none;
+    padding: 0;
+}
+.bootcamp-list {
+    margin-bottom: 1rem;
+    font-size: 1.7rem;
+}
+.div-title {
+    font-size: 1.9rem;
+    margin-top: 4rem;
+    background-color: rgb(133, 202, 202);
+    border-radius: 2px;
+    padding: 0.3rem 0rem;
+}
+.education-desc {
+    margin-top: -0.5rem;
+    font-size: 1.45rem;
+}
+.education-list {
+    margin-bottom: 3rem;
+}
+.education-title {
+    font-size: 2rem;
+}
+.education-year {
+    font-size: 1.7rem;
+    margin-top: -1rem;
+}
+.graph-container {
+    width: 100%;
+    background-color: rgb(179, 179, 179);
+    border-radius: 2px;
+    margin-top: 3px;
+}
+.graph-info {
+    background-color: rgb(98, 230, 186);
+    border-radius: 2px;
+}
+.name {
+    font-size: 2.5rem;
+    padding-top: 3rem;
+}
+.pf-pic {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.quotes-held {
+    font-size: 3rem;
+    margin-top: 6rem;
+    padding: 3rem 5rem;
+    background-color: aquamarine;
+    border-radius: 3rem;
+}
+.what-my-main {
+    font-size: 1.7rem;
+}
+
+.bahasa-inggris {
+    width: 75%;
+}
+.microsoft-office {
+    width: 85%;
+}
+.static-web {
+    width: 80%;
+}
+.back-end {
+    width: 75%;
+}
+.database {
+    width: 70%;
+}
